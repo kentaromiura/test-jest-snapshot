@@ -1,0 +1,19 @@
+{
+  "name": "test-jest-snapshot",
+  "version": "1.0.0",
+  "description": "test jest-snapshot",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kentaromiura/test-jest-snapshot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kentaromiura/test-jest-snapshot/issues"
+  },
+  "devDependencies": {
+    "jest-cli": "*"
+  },
+  "homepage": "https://github.com/kentaromiura/test-jest-snapshot#readme",
+  "jest": {
+    "setupTestFrameworkScriptFile": "scripts/test-framework-setup.js"
+  }
+}
